@@ -1,0 +1,113 @@
+/*Fonts*/
+/*@font-face {
+	font-family: Chaparral;
+	src: url("/fonts/chaparral-pro/chaparralpro-regular.otf") format("opentype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: Chaparral;
+	src: url("/fonts/chaparral-pro/chaparralpro-bold.otf") format("opentype");
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: Chaparral;
+	src: url("/fonts/chaparral-pro/chaparralpro-italic.otf") format("opentype");
+	font-style: italic;
+	font-weight: normal;
+}
+*/
+/*General*/
+body {
+	font-family: /*Chaparral,*/ sans-serif;
+	font-size:  1.3rem;
+	max-width:  45rem;
+/*	background: #FFF3D6;*/
+	margin: 1rem auto;
+	font-style: normal;
+}
+
+p {
+	line-height: 1.4;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+ul {
+		line-height: 1.4;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+	flex-flow: row wrap;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li:not(:last-child) {
+	margin-right: 0.5em;
+}
+
+a {
+	color: #0b090a;
+	text-decoration: none;
+}
+
+
+a:hover {
+  color: BurlyWood;
+}
+
+img {
+	max-width: 100%;
+	max-height: 400px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+  	margin: 1rem 1.5rem;
+  	font-size: 1.2rem;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+	body {
+		font-size: 1.4rem;
+	}
+} 
+
+/*Dark mode*/
+@media (prefers-color-scheme: dark) {
+
+	body {
+		background-color: black;
+	}
+
+	body {
+		color: Cornsilk;
+	}
+	
+	a {
+		color: BurlyWood;
+	}
+
+	a:hover, span, figcaption, blockquote, .notes {
+	color: BlanchedAlmond;
+	}
+
+	img {
+		opacity: 0.75;
+		transition: opacity .5s ease-in-out;	
+	}
+
+	img:hover {
+		opacity: 1;
+	}
+}
