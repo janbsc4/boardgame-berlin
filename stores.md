@@ -4,7 +4,7 @@ pageTitle: Boardgames in Berlin
 ---
 # Boardgame Stores in Berlin
 
-There are many wonderful places in Berlin, to bring your hard-earned cash. These are the best ones.
+There are many wonderful stores in Berlin, to spend your hard-earned cash in. These are the best ones.
 
 ---
 
@@ -12,21 +12,8 @@ There are many wonderful places in Berlin, to bring your hard-earned cash. These
 
 [Website](www.funtainmentberlin.store) - [Google Maps](https://g.page/Brettspielgeschaeft?share)
 
-They have a very wide selection, friendly staff, events, and tables to play anything from big tabletop games to card games.
+They have a very wide selection, friendly staff, events, and tables to play anything from big tabletop games, card games and pen and paper RPGs.
 
-- Boardgames
-	- Big selection and recent titles
-- TCGs
-	- Magic, the Gathering
-		- Products
-		- Singles
-		- Accessories (sleeves, mats, etc.)
-	- Yu-Gi-Oh! products
-- Tabletop
-	- Warhammer 40k (minis, codexes, etc.)
-	- Warhammer AoS (minis, codexes, etc.)
-	- Smallish selection of citadel paints and other hobby items
-- Pen&Paper RPGs
 
 ---
 
@@ -37,8 +24,6 @@ They have a very wide selection, friendly staff, events, and tables to play anyt
 Specialised in boardgames, they have a pretty big section for english boardgames.
 The staff is friendly and happy to give advice.
 
-- Tabletop
-	- Vallejo Game and Model paints
 
 ---
 
